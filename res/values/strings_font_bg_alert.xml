@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="bg_prompt">Choose a background Color</string>
+    <string name="font_prompt">Choose a font Color</string>
+    
+    <string-array name="font_color_arrays">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Cyan</item>
+        <item>Green</item>
+        <item>Gray</item>
+        <item>Magenta</item>
+        <item>Yellow</item>
+    </string-array>
+		
+    <string-array name="bg_color_arrays">
+        <item>LightGray</item>
+        <item>AliceBlue</item>
+        <item>AntiqueWhite</item>
+        <item>Aqua</item>
+        <item>BurlyWood</item>
+        <item>FloralWhite</item>
+        <item>LightGreen</item>
+        <item>LightPink </item>
+        <item>Yellow</item>
+        <item>White</item>
+   </string-array>
+    	    
+</resources>

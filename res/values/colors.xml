@@ -1,0 +1,14 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <color name="AliceBlue">#FFF0F8FF</color>
+    <color name="AntiqueWhite">#FFFAEBD7</color>
+    <color name="Aqua">#FF00FFFF</color>
+    <color name="BurlyWood">#FFDEB887</color>
+    <color name="FloralWhite">#FFFFFAF0</color>
+    <color name="LightGray">#FFE5E4E2</color>
+    <color name="LightGreen">#FF90EE90</color>
+    <color name="LightPink">#FFFFB6C1</color>
+    <color name="Yellow">#FFFFFF00</color>
+    <color name="White">#FFFFFFFF</color>
+
+</resources>

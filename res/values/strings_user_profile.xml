@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+       <string name="name_rahul">Rahul</string>
+      <string name="location">Location</string>   
+
+      <string name="location_val">Delhi, India</string>
+
+       <string name="language">Language</string>
+      <string name="language_val">English</string>   
+
+      <string name="color_contrast">Colour Contrast</string>
+	<string name="age">Age</string>
+	<string name="sex">Sex</string>
+	<string name="height">Height</string>
+	<string name="font_colour">Font Colour</string>
+	<string name="font_size">Font Size</string>
+	<string name="cursor_size">Cursor Size</string>
+	<string name="device_prop">Device Properties</string>
+	<string name="device_prop1">Device Properties</string>
+
+      
+</resources>

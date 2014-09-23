@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EWS</string>
+
+    
+    <string name="action_settings">Settings</string>
+    <string name="alert_details">Alert message</string>
+    <string name="tts_title">Speak aloud</string>
+    <string name="send_via_sms">Share via SMS</string>
+    <string name="translate_to_hindi">Show in Hindi</string>
+    <string name="no_alert">No alerts to show</string>
+    <string name="server_url">https://sites.google.com/site/ewsiitdelhi/getalert.json</string>
+    
+    <string name="resources_button">View Resources</string>
+    <string name="show_in_map_online">Show in map</string>
+    <string name="show_in_map_offline">Show in map (offline)</string>
+    <string name="multi_modal_ui_menuitem">Modify App</string>
+    <string name="broker_ip_menuitem">Change Sever</string>
+    <string name="download_maps_menuitem">Download offline maps</string>
+    <string name="upload_media_menuitem">Upload image/audio/video</string>
+    <string name="city_label">City</string>
+    <string name="title_activity_affected_area_map">Affected Area</string>
+    <string name="title_activity_upload_media">Upload Media</string>
+    <string name="title_activity_audio_recorder">Audio Recorder</string>
+    <string name="btnIntend">Take Picture</string>
+    <string name="btnIntendA">Record Audio</string>
+    <string name="btnIntendV">Record Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="audio_recorder_button_label">Audio Recorder</string>
+    <string name="audio_recorder_name">Audio Recorder</string>
+    <string name="audio_recorder_start_button_label">Start Recording</string>
+    <string name="audio_recorder_discard_button_label">Discard Audio</string>
+    <string name="audio_recorder_save_button_label">Save Audio</string>
+    <string name="audio_recorder_stop_button_label">Stop Recording</string>
+    <string name="audio_recorder_play_button_label">Play Audio</string>
+    <string name="recording">Recording....</string>    
+    <string name="playing">Playing recorded audio....</string>  
+    <string name="enter_location">Enter Location: </string>
+	<string name="select_resources_to_view">Select resources to view </string>	
+</resources>
